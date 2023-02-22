@@ -9,20 +9,11 @@
     <% end %>
     
     
-    <a class="navbar-brand" href="#">BUDGETIFY</a>
+    <a class="navbar-brand" href="#">BUDGET APP</a>
     
     <% if user_signed_in? %>
       <%= button_to "Logout", destroy_user_session_path, method: :delete, class: "btn btn-outline-light" %>
     <% end %>
-    
-    <%# <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <%# <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
-        </li> %>
-        <%# <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li> %>
       </ul>
     </div>
   </div>
