@@ -5,6 +5,8 @@ ruby "3.1.3"
 
 gem 'devise'
 
+gem 'cancancan'
+
 gem 'bootstrap', '~> 5.1'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
