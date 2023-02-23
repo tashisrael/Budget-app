@@ -75,13 +75,11 @@
 
 ### App Screenshots <a name="screenshots"></a>
 
-![screenshot](./app/assets/images/home.png)
+![screenshot](./app/assets/images/home.png) ![screenshot](./app/assets/images/login.png)
 
-![screenshot](./app/assets/images/login.png)
 
-![screenshot](./app/assets/images/signup.PNG)
+![screenshot](./app/assets/images/signup.PNG) ![screenshot](./app/assets/images/categories.png)
 
-![screenshot](./app/assets/images/categories.png)
 
 ![screenshot](./app/assets/images/transac.png)
 
